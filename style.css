@@ -1,0 +1,31 @@
+nav{
+    text-align: center;
+}
+#btn{
+    width: 100px;
+    height: 30px;
+    font-size:large;
+    margin-left: 50px;
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+    border: none;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+#table2 tbody img{
+width: 100px;
+height: 90px;
+}
+
+table{
+    margin: 20px;
+    font-size: 20px;
+}
+table td{
+    text-align: center;
+}
